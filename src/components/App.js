@@ -4,6 +4,8 @@ import Table from "./Table";
 
 const API = "http://localhost:3001/sushis";
 
+//trial 
+
 function App() {
   return (
     <div className="app">
